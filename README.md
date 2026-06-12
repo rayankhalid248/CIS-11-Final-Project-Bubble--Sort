@@ -11,8 +11,8 @@ This project is a program that sorts 8 numbers using a bubble sort algorithm
 - Bubble Sort.bin
 
 ## Authors
-Hector Solis
-Rayan Khalid
+- Hector Solis
+- Rayan Khalid
 
 ## Course
 CIS-11
